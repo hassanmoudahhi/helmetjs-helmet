@@ -1,7 +1,7 @@
 {
 	"name": "fcc-helmet-challenges",
 	"version": "0.0.1",
-	"description": "fcc backend helmetjs",
+	"description": "fcc backend hassan",
 	"main": "server.js",
 	"scripts": {
 		"start": "node myApp.js"
